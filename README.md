@@ -40,4 +40,5 @@ Maria Yasmin Morais
 ![Diagrama de Casos de Uso](./casos_uso.png)
 
 ---
-
+## 🔗 Repositório no GitHub
+[Link para o repositório]()
