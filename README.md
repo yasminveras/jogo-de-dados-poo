@@ -32,6 +32,8 @@ Maria Yasmin Morais - IF24
 ---
 
 ## 🧩 Diagrama de Classes
+![WhatsApp Image 2025-10-29 at 9 30 27 AM](https://github.com/user-attachments/assets/4053b638-d831-474e-aeda-f010dcee3a8f)
+
 
 
 ---
