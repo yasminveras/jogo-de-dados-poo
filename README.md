@@ -32,12 +32,12 @@ Maria Yasmin Morais
 ---
 
 ## 🧩 Diagrama de Classes
-![image alt](./https://github.com/yasminveras/jogo-de-dados-poo/blob/92ffc7b38e36c637c0a65e353fb8c87be17619af/dclasses.png)
+![image alt](https://github.com/yasminveras/jogo-de-dados-poo/blob/92ffc7b38e36c637c0a65e353fb8c87be17619af/dclasses.png)
 
 ---
 
 ## 🎭 Diagrama de Casos de Uso
-![Diagrama de Casos de Uso](./casos_uso.png)
+![Diagrama de Casos de Uso](casos_uso.png)
 
 ---
 ## 🔗 Repositório no GitHub
