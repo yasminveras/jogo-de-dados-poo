@@ -32,7 +32,7 @@ Maria Yasmin Morais - IF24
 ---
 
 ## 🧩 Diagrama de Classes
-<img width="568" height="462" alt="classesduso" src="https://github.com/user-attachments/assets/a4e786b8-d2c3-4824-a91a-a9b3df218325" />
+
 
 ---
 
