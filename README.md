@@ -2,7 +2,7 @@
 # 🎲 Jogo de Dados
 
 ## 👩‍💻 Desenvolvido por
-Maria Yasmin Morais
+Maria Yasmin Morais - IF24
 
 ---
 
