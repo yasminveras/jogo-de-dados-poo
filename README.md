@@ -41,4 +41,4 @@ Maria Yasmin Morais
 
 ---
 ## 🔗 Repositório no GitHub
-[Link para o repositório]()
+[Link para o repositório](https://github.com/yasminveras/jogo-de-dados-poo)
