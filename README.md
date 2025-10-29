@@ -32,7 +32,7 @@ Maria Yasmin Morais - IF24
 ---
 
 ## 🧩 Diagrama de Classes
-![Diagrama de classes](https://github.com/yasminveras/jogo-de-dados-poo/blob/92ffc7b38e36c637c0a65e353fb8c87be17619af/dclasses.png)
+<img width="568" height="462" alt="classesduso" src="https://github.com/user-attachments/assets/a4e786b8-d2c3-4824-a91a-a9b3df218325" />
 
 ---
 
