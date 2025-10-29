@@ -37,7 +37,7 @@ Maria Yasmin Morais
 ---
 
 ## 🎭 Diagrama de Casos de Uso
-![Diagrama de Casos de Uso](casos_uso.png)
+![Diagrama de Casos de Uso](./https://github.com/yasminveras/jogo-de-dados-poo/blob/d02f7f67a4618d99dfc0f7db30750b1ea2ee9842/dclasses.png)
 
 ---
 ## 🔗 Repositório no GitHub
