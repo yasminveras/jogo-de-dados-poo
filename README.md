@@ -37,7 +37,7 @@ Maria Yasmin Morais - IF24
 ---
 
 ## 🎭 Diagrama de Casos de Uso
-![Diagrama de Casos de Uso](./https://github.com/yasminveras/jogo-de-dados-poohttps://github.com/yasminveras/jogo-de-dados-poo/blob/d02f7f67a4618d99dfc0f7db30750b1ea2ee9842/dclasses.png)
+<img width="568" height="462" alt="classesduso" src="https://github.com/user-attachments/assets/a4e786b8-d2c3-4824-a91a-a9b3df218325" />
 
 ---
 ## 🔗 Repositório no GitHub
