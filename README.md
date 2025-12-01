@@ -42,4 +42,4 @@ Maria Yasmin Morais - IF24
 
 ---
 ## 🔗 Repositório no GitHub
-[Link para o repositório](https://github.com/yasminveras/jogo-de-dados-poo)
+[Link para o repositório](https://github.com/yasminveras/jogo-de-dados-poo.git)
