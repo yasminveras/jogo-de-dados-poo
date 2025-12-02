@@ -2,7 +2,7 @@
 # 🎲 Jogo de Dados
 
 ## 👩‍💻 Desenvolvido por
-Maria Yasmin Morais - IF24
+Yasmin morais IF24
 
 ---
 
@@ -34,8 +34,17 @@ Maria Yasmin Morais - IF24
 ## 🧩 Diagrama de Classes
 ![alt text](dclasses.png)
 
+---
+
+## 🎭 Diagrama de Casos de Uso
+![alt text](classesduso.png)
+
 
 ---
+
+## 🔗 Repositório no GitHub
+[Link para o repositório]()
+
 # 🗃️ Banco de Dados - Jogo de Dados
 
 ## 💾 Estrutura do Banco (MySQL)
@@ -51,9 +60,3 @@ CREATE TABLE jogador (
   saldo DECIMAL(10,2)
 );
 
-## 🎭 Diagrama de Casos de Uso
-![alt text](classesduso.png)
-
----
-## 🔗 Repositório no GitHub
-[Link para o repositório](https://github.com/yasminveras/jogo-de-dados-poo.git)
